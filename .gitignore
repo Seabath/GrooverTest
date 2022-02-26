@@ -3,9 +3,9 @@
 .env
 .DS_Store
 
-fron-end-test/node_modules/*
-fron-end-test/build/*
-fron-end-test/npm-debug.log
+js/node_modules/*
+js/build/*
+js/npm-debug.log
 
-longest-ordered-test/.pytest_cache/*
-longest-ordered-test/__pycache__/*
+python/.pytest_cache/*
+python/__pycache__/*
